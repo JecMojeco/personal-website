@@ -1,0 +1,47 @@
+GUIDELINES FOR ACTIVITY 1
+ Create a personalized website with four page
+
+Home Page (Introduction)
+     A short welcome message introducing yourself or your brand.
+     A profile photo / logo.
+     A tagline or mission statement (e.g., “Tech enthusiast | Problem Solver | Lifelong Learner”).
+    Highlight main navigation to other pages.
+
+About Page (Your Story)
+     A detailed introduction about you: background, education, interests.
+     Your values, passion, or goals.
+     Optional: A timeline (life events, milestones, achievements).
+     A personal touch: hobbies, favorite quotes, or a short story about you.
+
+Portfolio / Projects / Works Page
+     Showcase your skills and accomplishments:
+    o If you’re a student: list school projects, research, or coding assignments.
+    o If professional: work samples, designs, or career highlights.
+     Add photos, screenshots, or demo links.
+     Keep it structured (grid or card layout for projects).
+
+Contact Page
+     Ways people can reach you:
+    o Email address.
+    o Social media links (LinkedIn, GitHub, Instagram, etc.depending on purpose).
+    A contact form (if you want messages directly from your site).
+    Optional: Location (city, country) and a downloadable CV / resume.
+
+Instructions for Website Activity Submission
+1. CSS Requirement
+o All CSS must be written in an external stylesheet file.
+2. Submission Specifications
+o Compile all source code and screenshots of your output into a single
+PDF file.
+o The PDF filename must follow this format: SURNAME-WEBSITE.pdf
+ Example: MARQUEZ-WEBSITE.pdf
+o Submissions without the correct filename will not be checked and will be
+considered invalid.
+3. Folder Requirement
+o Create a folder named ACTIVITY 1.
+o Upload all your source code files into this folder.
+4. Identification
+o Make sure your name and section are included inside your files.
+5. Deadline
+o The deadline of submission is on Wednesday, September 13, 2025, at
+11:59 PM.
